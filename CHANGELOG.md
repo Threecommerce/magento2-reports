@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.13.2
+
+- Security: the `token_uri` of the pasted GA4 service-account key must be https on googleapis.com, otherwise the Google default is used (the signed JWT could be sent to an arbitrary host).
+
 ## 1.13.1
 
 - Metadata: license in `composer.json` is now `proprietary` (commercial module), no functional change.
