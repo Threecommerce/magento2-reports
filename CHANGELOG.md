@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.13.1
+
+- Metadata: license in `composer.json` is now `proprietary` (commercial module), no functional change.
+
 ## 1.13.0
 
 - Quote Request Analysis report (Reports > Sales > Quote Request Analysis, only with Threecommerce Catalog Mode
