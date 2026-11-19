@@ -4,7 +4,7 @@ Native Magento reports tell you how much you sold, not how much you earned, whic
 
 ![RFM analysis report with customer segments](images/reports-rfm-analysis.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.7 – 2.4.9 · Mage-OS 3.x · PHP 8.1 – 8.4 · MySQL 8 / MariaDB 10.6+ · Admin only
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.7 – 2.4.9 · Mage-OS 3.x · PHP 8.1 – 8.5 · MySQL 8 / MariaDB 10.6+ · Admin only
 **License:** commercial · coming soon
 
 ## Features
@@ -25,7 +25,7 @@ Native Magento reports tell you how much you sold, not how much you earned, whic
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.7+ or Mage-OS 3.x
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - MySQL 8 or MariaDB 10.6+
 - Native modules: Backend, Catalog, CatalogInventory, Customer, Newsletter, PageCache, Quote, Reports, Sales, Search, Store
 
